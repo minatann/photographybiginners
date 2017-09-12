@@ -1,0 +1,247 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+div {
+}
+.site-title{
+    text-align:center;
+}
+body{
+    background-color: #ffffbf;
+    /* #f9d4f450 */ 
+    width: 100%;
+    height: 100%;
+}
+
+.site-title {
+	font-family:Photographer Beginners, sans-serif;
+font-style: italic;
+font-weight: 400px;
+}
+
+#header{
+	width: 100%;
+	overflow:hidden;
+	padding: 6px 0p
+        px;
+}
+#header{
+	padding: 200px 350px 80px;
+	
+}
+
+nav{
+	overflow:hidden;
+	padding-bottom: 10px;
+	border: 3px solid #6E6E6E;
+	margin-bottom:10px;
+	border-radius: 10px;
+    border: 3px solid #6E6E6E;
+    width: 900px;
+    margin-right: auto;
+   margin-left : auto;
+    color:#f2c1e9;
+
+}
+
+nav li{
+	list-style-type:none;
+	float:left;
+	margin-top: 2px;
+	margin-left:16px;		 
+}　
+
+nav li:nth-child(1){
+	margin: 0;
+}
+
+nav a:nth-child(1){
+	padding: 0;
+	margin: 0;
+}
+
+ul{
+	overflow: hidden;
+}
+
+nav a{		
+    color:#6E6E6E; 
+	text-decoration: none;
+		font-size:16px;
+		display: block;
+		text-decoration: none;
+		margin:14px 16px 0px;
+		transition: 0.3s;
+		}
+
+	nav a:hover{
+		color: #eee;
+	}
+
+#logo{
+    
+}
+.description{
+    width: 900px;
+    margin-right: auto;
+   margin-left : auto;
+}
+
+.main-visual{
+	width: 900px;
+	height: 350px;
+	background-image:url(IMG_1617.JPG);
+	background-size: cover;
+	background-position: 0 -200px;
+	margin: 0 auto;
+	border: 3px solid #6E6E6E;
+	border-radius:10px; 
+}
+
+.container {
+  margin: 0 auto;
+  width: 900px;
+  color: #6E6E6E;
+  border: 3px solid #424242;
+}
+
+.slick-slide {
+  text-align: center;
+  color: #419be0;
+  background: white;
+}
+
+.single-item{
+    width: 900px;
+    margin: 0 auto;
+}
+
+.single-item img{
+    margin: 0 auto;
+}
+.square{
+	height: 15px;
+	width: 15px;
+	margin: 5px 10px;
+	float: left;
+	filter: blur(2px);
+	border-radius: 50%;
+}
+
+.red{
+	background-color: red;
+}
+.yellow{
+	background-color: yellow;
+}
+.green{
+	background-color: green;
+}
+.blue{
+	background-color: blue;
+}
+.pink{
+	background-color: hotpink;
+}
+.purple{
+	background-color: purple;
+}
+
+
+.circle {　
+	height: 30px;
+	width: 30px;
+	margin: 10px 15px;
+	float: left;
+	filter: blur(2px);
+	border-radius: 50%;
+	
+	
+	
+}
+
+h2{
+	line-height: 1.6em;
+	margin-top: 20px;
+	font-size: 30px;
+}
+site-title{ }
+
+
+.col-3 {
+  /* 3カラムの設定です */
+  width: 300px;
+  padding: 5px;
+  float: left;
+  overflow: hidden;
+  /* コメントアウトの仕方は、「command + /」または「ctrl + /」 */
+  /* ここからレイアウトが組み終わったらコメントアウトをする */
+  height: 150px;
+  background-color: rgba(200, 30, 6, 0.4);
+  margin-bottom: 5px;
+  border: 1px solid black;
+  /* ここまでレイアウトが組み終わったらコメントアウトをする */
+}
+.col-9 {
+  /* 9カラムの設定です */
+  width: 900px;
+  margin: 0 auto;
+  overflow: hidden;
+  /* コメントアウトの仕方は、「command + /」または「ctrl + /」 */
+  /* ここからレイアウトが組み終わったらコメントアウトをする */
+  height: 150px;
+  background-color: rgba(200, 90, 18, 0.4);
+  margin-bottom: 5px;
+  /* ここまでレイアウトが組み終わったらコメントアウトをする */
+}
+
+.animation1{
+    float: left;
+}
+
+.shoukai{
+    float: left;
+}
+
+.sidebar{
+    overflow: hidden;
+}
+
+.header{
+    padding-top: 50px;
+}
+.camera{
+float: left;
+}
+.camera-setsumei{
+float:left;
+}
+.mikann{
+float: left;
+}
+.meronn{
+    float: left;
+}
+.minatann{
+    float: left;
+}
+
+.itigo{
+    float: left;
+}
+.itigomiruku{
+    float: left;
+}
+.kinou{
+    overflow: hidden;
+}
+.kinou2{
+    float: left
+}
+.mika{
+    float: left
+}
+.makaronn{
+    float: left
+}
